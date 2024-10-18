@@ -13,6 +13,7 @@ if numero != numero :
 elif numero >= numero:
     print ('você digitou um número maoir')
 
+
 elif numero <= numero :
     print('você digitou um número menor')
 
